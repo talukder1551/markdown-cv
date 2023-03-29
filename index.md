@@ -78,9 +78,11 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 -->
 
+V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., **under review**.
+
 M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Remote Sensing*, **under review**.
 
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Geology*, **in revision**.
+D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Tektonika*, **in revision**.
 
 `2022`
 S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in the Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, doi: [10.1029/2021TC007071](https://doi.org/10.1029/2021TC007071), 2022.
@@ -679,16 +681,17 @@ Did not attend/judge in 2015
 **Deputy director**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
 
 `2018-present`
-**Steering group member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
-
 **Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
-
-**Leader**, *Department of Geosciences and Geography well-being group, University of Helsinki*, Helsinki, Finland.
 
 **Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
 
 `2021-2022`
 **Vice director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+
+`2018-2022`
+**Leader**, *Department of Geosciences and Geography well-being group, University of Helsinki*, Helsinki, Finland.
+
+**Steering group member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
 
 `2017-2020`
 **Steering group member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
@@ -754,4 +757,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 -->
 
-<br/>Last updated: November 2022<br/><br/>
+<br/>Last updated: March 2023<br/><br/>
