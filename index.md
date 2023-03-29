@@ -272,9 +272,11 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 **Session co-convener**, *Geological Society of America Annual Meeting*, Denver, Colorado, USA.<br/>
 “Orogeny: From rigid plates to diffuse lithospheric deformation”, one of several sessions celebrating the 30th anniversary of the Structural Geology and Tectonics Division of the GSA
 
+<!-- 
 ### Presentations
 
 *Past 4 years. Asterisks indicate student lead authors.*
+
 
 `2022`
 - Lito2022
@@ -290,6 +292,7 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 - Fringe?
 - Jugraj?
 
+`2020`
 A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. Pütz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs. Vol 52, No. 6, 2020. doi: 10.1130/abs/2020AM-358401.
 
 **D. M. Whipp** and L. Kaislaniemi. Lithological and erosional controls on orogen width in the Bolivian Andes. Abstract EGU2020-20549, European Geosciences Union General Assembly, 4-8 May 2020. doi: [10.5194/egusphere-egu2020-20549](https://dx.doi.org/10.5194/egusphere-egu2020-20549).
@@ -301,7 +304,6 @@ J. Singh\*, R. S. Kumar, and **D. M. Whipp**. 1-D Numerical Model for Heat Trans
 
 **D. M. Whipp**, P. Uotila, I. Kukkonen, E. Koivisto, T. Luhta. New geophysics study programs at the University of Helsinki. *XXIX Geophysics Days. Programme and Extended Abstracts, Rovaniemi, Finland, March 21–22, 2019*, Geophysical Society of Finland, 2019.
 
-<!--
 `2018`
 **D. M. Whipp**, I. Coutand, B. Bookhagen, D. Grujic, and T. A. Ehlers. Whence the age? Use of numerical models to extract the record of tectonic and erosional processes in detrital thermochronometer data. Proceedings of the 16th International Conference on Thermochronology, Quedlinburg, Germany, 17-21 September 2018 (**invited**).
 
@@ -545,7 +547,7 @@ Now: Geologist, Pöyry Finland Oy
 <!-- `2019-present`
 **Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany. -->
 
-`2021-present`
+`2021-2023`
 **Minttu Pekkala**, *Bachelor's Program in Geoscience, University of Helsinki*, Helsinki, Finland.
 
 `2018-2020`
@@ -566,7 +568,7 @@ Co-supervised with Jorina Schütt
 ### Supervisory committee
 
 `2021-present`
-**Niina Junna**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+**Niina Junno**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 `2020-present`
 **Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
