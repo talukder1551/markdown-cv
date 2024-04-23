@@ -27,7 +27,7 @@ FI-00014 University of Helsinki, Finland<br/>
 **Ph.D., Biostatistics**, *University of Michigan*, Ann Arbor, MI, USA.
 
 `1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+**B.S., statistics**, *University of Dhaka*, Ann Arbor, MI, USA.
 
 ## Experience
 
