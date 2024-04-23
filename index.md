@@ -2,8 +2,8 @@
 layout: cv
 title: David Whipp's CV
 ---
-# David Whipp
-Professor, University of Helsinki
+# Robiul
+GRA, University of kansas medical center
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
