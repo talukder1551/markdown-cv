@@ -5,7 +5,7 @@ title: David Whipp's CV
 # Robiul
 GRA, University of kansas medical center
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
+Department of Biostat <br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
 FI-00014 University of Helsinki, Finland<br/>
 
@@ -24,7 +24,7 @@ FI-00014 University of Helsinki, Finland<br/>
 ## Education
 
 `2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+**Ph.D., Biostatistics**, *University of Michigan*, Ann Arbor, MI, USA.
 
 `1998-2002`
 **B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
